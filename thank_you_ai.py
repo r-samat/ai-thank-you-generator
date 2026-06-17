@@ -53,7 +53,7 @@ donors = [
     ["Erlan", 75, "New donor; wants to volunteer with us."],
 ]
 
-tone = "personal and grateful"
+tone = "formal"
 total = 0
 letter_count = 0
 os.makedirs("letters", exist_ok=True)
